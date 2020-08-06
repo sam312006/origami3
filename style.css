@@ -1,0 +1,23 @@
+
+.body{
+    margin: 0px;
+}
+
+.header{
+    color:#FFAE21 ;
+}
+
+.grid{
+    
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 30px;
+
+}
+
+.item{
+    color:#EE2311;
+}
+
